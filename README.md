@@ -1,4 +1,4 @@
-# Hi there, I'm Harshit! 👋
+# Hi there, I'm Harshit! 👾
 
 🛡️ Ethical hacking enthusiast  
 🎮 Exploring game development | 🐍 Python-powered  
